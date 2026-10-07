@@ -1,11 +1,11 @@
 /* ===================== CONFIG ===================== */
 /* Replace with your RAW CSV URLs */
 const DATASETS = [
-  { name: "Main Folder",       url: "https://raw.githubusercontent.com/rose2023va/Ross-Edgley-Swim-Map/refs/heads/main/Main%20Folder.csv",       color: "black"  },
-  { name: "From Anthony",      url: "https://raw.githubusercontent.com/rose2023va/Ross-Edgley-Swim-Map/refs/heads/main/From%20Anthony.csv",      color: "pink"   },
-  { name: "Garmin",            url: "https://raw.githubusercontent.com/rose2023va/Ross-Edgley-Swim-Map/refs/heads/main/Garmin.csv",              color: "red"    },
-  { name: "Marshall Garmin",   url: "https://raw.githubusercontent.com/rose2023va/Ross-Edgley-Swim-Map/refs/heads/main/Marshall%20Garmin.csv",   color: "yellow" },
-  { name: "Skirr",             url: "https://raw.githubusercontent.com/rose2023va/Ross-Edgley-Swim-Map/refs/heads/main/Skirr.csv",               color: "blue"   }
+  { name: "Main Folder",       url: "https://raw.githubusercontent.com/rosevillanuevadev/Ross-Edgley-Swim-Map/refs/heads/main/Main%20Folder.csv",       color: "black"  },
+  { name: "From Anthony",      url: "https://raw.githubusercontent.com/rosevillanuevadev/Ross-Edgley-Swim-Map/refs/heads/main/From%20Anthony.csv",      color: "pink"   },
+  { name: "Garmin",            url: "https://raw.githubusercontent.com/rosevillanuevadev/Ross-Edgley-Swim-Map/refs/heads/main/Garmin.csv",              color: "red"    },
+  { name: "Marshall Garmin",   url: "https://raw.githubusercontent.com/rosevillanuevadev/Ross-Edgley-Swim-Map/refs/heads/main/Marshall%20Garmin.csv",   color: "yellow" },
+  { name: "Skirr",             url: "https://raw.githubusercontent.com/rosevillanuevadev/Ross-Edgley-Swim-Map/refs/heads/main/Skirr.csv",               color: "blue"   }
 ];
 
 /* =============== CSV / UTIL FUNCTIONS ============= */

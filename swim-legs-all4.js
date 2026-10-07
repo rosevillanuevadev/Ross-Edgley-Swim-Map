@@ -1,9 +1,9 @@
 /* ===================== CONFIG ===================== */
 const DATASETS = [
-  { name: "Main GPX",   url: "https://raw.githubusercontent.com/rose2023va/Ross-Edgley-Swim-Map/refs/heads/main/consolidated_gpx%20-%20consolidated_gpx.csv",   color: "red" },
-  { name: "Skirr GPX",  url: "https://raw.githubusercontent.com/rose2023va/Ross-Edgley-Swim-Map/refs/heads/main/Skirr%20GPX%20-%20Skirr%20GPX.csv",  color: "blue" },
-  { name: "Garmin GPX", url: "https://raw.githubusercontent.com/rose2023va/Ross-Edgley-Swim-Map/refs/heads/main/GarminGPX%20-%20GarminGPX.csv", color: "green" },
-  { name: "Marshall Garmin GPX", url: "https://raw.githubusercontent.com/rose2023va/Ross-Edgley-Swim-Map/refs/heads/main/Marshall_Garmin.csv  ", color: "pink" }
+  { name: "Main GPX",   url: "https://raw.githubusercontent.com/rosevillanuevadev/Ross-Edgley-Swim-Map/refs/heads/main/consolidated_gpx%20-%20consolidated_gpx.csv",   color: "red" },
+  { name: "Skirr GPX",  url: "https://raw.githubusercontent.com/rosevillanuevadev/Ross-Edgley-Swim-Map/refs/heads/main/Skirr%20GPX%20-%20Skirr%20GPX.csv",  color: "blue" },
+  { name: "Garmin GPX", url: "https://raw.githubusercontent.com/rosevillanuevadev/Ross-Edgley-Swim-Map/refs/heads/main/GarminGPX%20-%20GarminGPX.csv", color: "green" },
+  { name: "Marshall Garmin GPX", url: "https://raw.githubusercontent.com/rosevillanuevadev/Ross-Edgley-Swim-Map/refs/heads/main/Marshall_Garmin.csv  ", color: "pink" }
 ];
 
 /* =============== CSV / UTIL FUNCTIONS ============= */
